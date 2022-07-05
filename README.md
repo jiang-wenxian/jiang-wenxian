@@ -10,7 +10,6 @@
   <a href="https://shields.io/"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
   <a href="https://blog.csdn.net/weixin_54166618?type=blog"><img src="https://img.shields.io/badge/Blog-CSDN-red"></a>
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
-  <img src="https://wakatime.com/badge/github/jiang-wenxian/My-Blog.svg"/>
  </p>
 
 🎉 Welcome to my Github! I'm **jiang-wenxian** 😃, a computer science graduate from National University of Singapore 🏫.
